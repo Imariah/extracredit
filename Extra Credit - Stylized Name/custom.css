@@ -1,0 +1,15 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+h1 {
+  font-family: "Great Vibes", cursive;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 975 pt !important;
+  text-align: center !important;
+  color: lightpink;
+  text-shadow: 2px 2px deeppink;
+  text-decoration-line: underline;
+  text-decoration-color: #DE0D92;
+  text-decoration-style: wavy;
+  text-decoration-thickness: 1pt;
+}
+
